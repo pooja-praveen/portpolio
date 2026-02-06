@@ -55,7 +55,7 @@ function typeEffect(){
 typeEffect();
 
 
-// GLOW CURSOR FOLLOW
+
 // CURSOR GLOW FOLLOW (TEST)
 const glow = document.getElementById("cursor-glow");
 
